@@ -45,6 +45,7 @@ console.log(n);
 const k = "wonderful"
 const kt = k.toUpperCase();
 console.log(kt)
+//logging the console
 
 const g = "amazing";
 const gt = g.toLowerCase();
