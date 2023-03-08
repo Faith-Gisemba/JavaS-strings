@@ -54,7 +54,7 @@ const y = "undERneath";
 const yq = y.toLowerCase();
 console.log(yq);
 
-const o = "A wonderful world";
-const op = j.toLocaleLowerCase();
-console.log(op);
+const j = "A wonderful world";
+const jp = j.toLocaleLowerCase();
+console.log(jp);
 
